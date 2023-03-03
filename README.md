@@ -1,6 +1,1 @@
-## Secondary Heading
-
-* Samar
-* Abbas
-
-### Tertiary Heading
+This repository contains different DataScience Tutorials and Projects
